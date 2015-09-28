@@ -1,0 +1,1 @@
+I was having issues converting the photo for Stacy in my Persona PDF. File is available in Word due to this.
