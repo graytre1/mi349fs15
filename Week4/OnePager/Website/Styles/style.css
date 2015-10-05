@@ -1,0 +1,46 @@
+.TJGBanner {
+	display:block;
+	margin: 0 auto;
+	}
+	
+
+body {
+	width: 761px;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	border-color: white;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background-color:grey;
+	color: white;
+}
+
+h1 {
+	font-family: Lobster;
+	color: white;
+	font-size: 44px;
+}
+
+h2 {
+	font-family: Lobster;
+	color: white;
+	margin-left: 25px;
+}
+
+p {
+	font-size:18px;
+	font-family: Helvetica;
+	margin-left: 50px;
+	margin-top: -15px;
+	margin-bottom: -15px;
+}
+.personaimg {
+	display:block;
+	margin-top: 30px;
+}
+a {
+	color:white;
+}
+html {
+	background-color:#d4d4d4 ;
+}
