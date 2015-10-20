@@ -1,0 +1,53 @@
+.TJGBanner {
+	display:block;
+	margin: 0 auto;
+	}
+	
+
+body {
+	width: 761px;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	border-color: white;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background-color:grey;
+	color: white;
+}
+
+h1 {
+	font-family: Lobster;
+	color: white;
+	font-size: 44px;
+    text-align: center;
+}
+
+h2 {
+	font-family: Lobster;
+	color: blue;
+	margin-left: 25px;
+}
+
+p {
+	font-size:18px;
+	font-family: Helvetica;
+	margin-left: 50px;
+	margin-top: -15px;
+	margin-bottom: -15px;
+	
+}
+.goodP{
+	-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+	 -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+
+}
+a {
+	color:white;
+}
+html {
+	background-color:#d4d4d4 ;
+}
